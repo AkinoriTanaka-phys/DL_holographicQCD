@@ -1,7 +1,3 @@
-# Deep Leaning Holographic QCD
-
-This repository is for reproducing the numerical results in https://arxiv.org/abs/1809.10536.
-
 # Requirements
 Language is `python`. We need following libraries:
 * `csv`
