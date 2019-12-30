@@ -1,3 +1,6 @@
+# Notebook
+The main file is https://github.com/AkinoriTanaka-phys/DL_holographicQCD/blob/master/QCD_public.ipynb.
+
 # Requirements
 Language is `python`. We need following libraries:
 * `csv`
